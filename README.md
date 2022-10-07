@@ -19,3 +19,9 @@ As our lives are very busy these days, we often feel we need more than 24 hrs. a
 
 4.The database will have all the details and the user can search the news by using a search bar.
 
+# TEAM DETAILS
+
+1. Team Leader   - Ragavendra Vigneshwaran R
+2. Team Member 1 - Ranjani S M
+3. Team Member 2 - Ranjitha K
+4. Team Member 3 - SakthiKarthi Lingam M P
