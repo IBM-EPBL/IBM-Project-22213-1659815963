@@ -17,7 +17,7 @@ We have tested the App in both mobile and PC and it worked well. It takes around
 - [Live website Link](http://159.122.183.93:31965)
 
 ## Team Members:
-Team Leader - Ragavendra Vigneshwaran R
-Team Member 1 - Ranjani S M
-Team Member 2 - Ranjitha K
-Team Member 3 - SakthiKarthi Lingam M P
+- Team Leader - Ragavendra Vigneshwaran R 
+- Team Member 1 - Ranjani S M
+- Team Member 2 - Ranjitha K
+- Team Member 3 - SakthiKarthi Lingam M P
