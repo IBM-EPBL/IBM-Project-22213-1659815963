@@ -19,6 +19,17 @@ As our lives are very busy these days, we often feel we need more than 24 hrs. a
 
 4.The database will have all the details and the user can search the news by using a search bar.
 
+## FrontEnd:
+- HTML
+- CSS
+- Javascript
+
+## BackEnd:
+- Python
+- Flask
+- [SendinBlue](https://www.sendinblue.com/) 
+- IBM DB2
+- JWT Authentication
 
 ## URLs for the site:
 - [Live website Link](http://159.122.183.93:31965)
